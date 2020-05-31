@@ -6,7 +6,7 @@ var newestUrls = [
     //'https://vt4.xyz',
 ];
 var otherUrls = [
-    'https://dizhi91.github.io/',
+    'https://dizhi91.github.io',
     //'https://july50.com',
 ];
 var foreverUrls = [

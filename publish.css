@@ -1,0 +1,98 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #F8F9FA;
+    color: #fff;
+    font-family:-apple-system,BlinkMacSystemFont,Helvetica Neue,PingFang SC,Microsoft YaHei,Source Han Sans SC,Noto Sans CJK SC,WenQuanYi Micro Hei,sans-serif;
+}
+
+#main {
+    margin: 30px auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.field {
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: #fff;
+    color: #6C757D;
+    font-size: 16px;
+    padding: 15px;
+    margin: 5px auto;
+    border-radius: 10px;
+}
+.field.desc ul>li {
+    text-align: left;
+}
+
+@media (max-width: 500px) {
+    #main {
+        padding: 0 5px;
+    }
+    .field {
+        width: 100%;
+        padding: 15px 0;
+    }
+    .field.desc ul {
+        margin: 0 15px;
+    }
+    .field.desc ul>li {
+        text-align: left;
+    }
+}
+
+ul>li {
+    margin-bottom: 10px;
+    list-style-type: none;
+    text-align: center;
+}
+ul>li.text {
+    font-size: 14px;
+}
+
+.field .title {
+    margin-bottom: 15px;
+    font-weight: bold;
+    color: #343A40;
+}
+a, a:active, a:hover, a:focus, a:visited{
+    color: inherit;
+    text-decoration: none;
+}
+
+
+.brand {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    text-align: center;
+    color: #000;
+    font-size: 30px;
+    font-weight: 200;
+    cursor: pointer;
+}
+
+.brand span {
+    color: #ed2333;
+    font-weight: 200;
+}
+.brand span.flag {
+    color: #fff;
+    background: #ed2333;
+    border-radius: 0.25rem;
+    font-size: 16px;
+    font-weight: bold;
+    display: inline-block;
+    padding: 0 5px;
+    margin-left: 5px;
+    line-height: 30px;
+}

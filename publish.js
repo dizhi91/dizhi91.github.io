@@ -7,7 +7,7 @@ var newestUrls = [
 ];
 var otherUrls = [
     'https://dizhi91.github.io',
-    //'https://july50.com',
+    'https://jiuse123.com',
 ];
 var foreverUrls = [
     'https://91porny.com',

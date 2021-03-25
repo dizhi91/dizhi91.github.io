@@ -2,12 +2,9 @@ var emails = [
     'dizhi9191@gmail.com'
 ];
 var newestUrls = [
-    'https://jiuse020.com',
-    'https://jiuse021.com',
-    'https://jiuse022.com',
+    'https://jiuse031.com',
 	'https://jiuse005.xyz',
-	'https://jiuse004.xyz',
-	'https://jiuse003.xyz'
+	'https://jiuse004.xyz'
 ];
 var otherUrls = [
     'https://jiuse.me',

@@ -3,8 +3,8 @@ var emails = [
 ];
 var newestUrls = [
     'https://jiuse031.com',
-	'https://jiuse005.xyz',
-	'https://jiuse004.xyz'
+	'https://jiuse008.xyz',
+	'https://jiuse007.xyz'
 ];
 var otherUrls = [
     'https://jiuse.me',

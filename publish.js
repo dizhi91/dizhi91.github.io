@@ -2,7 +2,7 @@ var emails = [
     'dizhi9191@gmail.com'
 ];
 var newestUrls = [
-    'https://jiuse031.com',
+    'https://jiuse911.com',
 	'https://jiuse008.xyz',
 	'https://jiuse007.xyz'
 ];

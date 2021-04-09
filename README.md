@@ -1,9 +1,9 @@
-# jiuse.me
+# jiuse.org
 :sparkles::sparkles:九色视频 地址发布:sparkles::sparkles:
 ==
-:heart: :point_right: 【移动用户10】 ：https://jiuse010.xyz
+:heart: :point_right: 【移动用户11】 ：https://jiuse011.xyz
 ------
-:heart: :point_right: 【移动用户9】 ：https://jiuse009.xyz
+:heart: :point_right: 【移动用户10】 ：https://jiuse010.xyz
 ------
 :heart: :point_right: 【最新911】 ：https://jiuse911.com
 ------
@@ -51,7 +51,7 @@
 ------
 :heart: :point_right: 【永久地址】 ：https://91porny.com
 ------
-:sparkles:重要提醒:sparkles:收藏本页面(jiuse.me)，避免迷路！
+:sparkles:重要提醒:sparkles:收藏本页面(jiuse.org)，避免迷路！
 ==
 
 -

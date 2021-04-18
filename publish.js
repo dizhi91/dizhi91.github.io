@@ -3,11 +3,11 @@ var emails = [
 ];
 var newestUrls = [
     'https://jiuse911.com',
-	'https://jiuse009.xyz',
-	'https://jiuse010.xyz'
+	'https://jiuse010.xyz',
+	'https://jiuse011.xyz'
 ];
 var otherUrls = [
-    'https://jiuse.me',
+    'https://jiuse.org',
 	'https://dizhi91.github.io'
 ];
 var foreverUrls = [
